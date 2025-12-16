@@ -2,7 +2,11 @@
 <div align="center">
   <img src="welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
-
+<br/>
+<img height="200" alt="Thanks for visiting me" width="200" src="paint_winXP.jpg"/>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img height="200" alt="Thanks for visiting me" width="200" src="web.gif"/>
+<br/>
 
 <!-- Footer -->
 
@@ -10,10 +14,7 @@
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="thanks.svg"/>
 <br/>
-<img height="200" alt="Thanks for visiting me" width="200" src="paint_winXP.jpg"/>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<img height="200" alt="Thanks for visiting me" width="200" src="web.gif"/>
-<br/>
+
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30"/>
 <!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
