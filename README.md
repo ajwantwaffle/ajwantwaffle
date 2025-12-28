@@ -17,6 +17,7 @@
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 </div>
+<br/>
 Favorite repositories
 
 <br/>
