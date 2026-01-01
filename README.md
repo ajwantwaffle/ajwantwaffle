@@ -7,13 +7,20 @@
 
 <div align="center">
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-  <img height="300" alt="paint" src="paint_winXP.jpg"/> 
+  <img height="300" alt="paint" src="paint_win98.jpg"/> 
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+  <img height="300" alt="paint" src="notepad_win98.png"/> 
 </div>
 <br/>
 <div>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
   <span>Popular repositories</span>
+</div>
+<div align="center">
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+  <img height="300" alt="paint" src="repository1.png"/> 
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+  <img height="300" alt="paint" src="repository1.png"/>
 </div>
 
 
