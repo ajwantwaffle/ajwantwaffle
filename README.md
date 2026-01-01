@@ -2,29 +2,22 @@
 <div align="center">
   <img src="welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
-
 <br/>
-
 <div align="center">
   <img height="300" alt="paint" src="paint_win98.jpg"/> 
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
   <img height="300" alt="notepad" src="notepad_win98.png"/> 
 </div>
-
 <br/>
-
 <div>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
   <span>Popular repositories</span>
 </div>
-
 <br/>
-
 <div align="center">
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://github.com/ajwentcrazy/SolaOne.fun"><img height="400" width="380" alt="repository1" src=".\repositories\repository1.png"/><a/>
+  <a href="https://github.com/ajwentcrazy/SolaOne.fun"><img height="400" width="400" alt="repository1" src=".\repositories\repository1.png"/><a/>
   <span>&nbsp;</span>
-  <a href="https://github.com/ajwentcrazy/Fake-Discord-Statue"><img height="400" width="380" alt="repository2" src=".\repositories\repository2.png"/><a/>
+  <a href="https://github.com/ajwentcrazy/Fake-Discord-Statue"><img height="400" width="400" alt="repository2" src=".\repositories\repository2.png"/><a/>
 </div>
 
 <br/>
