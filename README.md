@@ -11,7 +11,10 @@
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 </div>
 <br/>
-Favorite repositories
+<div>
+  ### Favorite repositories
+</div>
+
 
 <br/>
 <!-- Footer -->
