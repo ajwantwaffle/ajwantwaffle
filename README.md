@@ -17,9 +17,9 @@
 </div>
 <div align="center">
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-  <img height="300" alt="repository1" src="repository1.png"/> 
+  <img height="300" alt="repository1" src=".\repositories\repository1.png"/> 
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-  <img height="300" alt="repository2" src="repository2.png"/>
+  <img height="300" alt="repository2" src=".\repositories\repository2.png"/>
 </div>
 
 
