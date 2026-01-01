@@ -22,9 +22,9 @@
 
 <div align="center">
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://github.com/ajwentcrazy/SolaOne.fun"><img height="450" width="450" alt="repository1" src=".\repositories\repository1.png"/><a/>
+  <a href="https://github.com/ajwentcrazy/SolaOne.fun"><img height="350" width="350" alt="repository1" src=".\repositories\repository1.png"/><a/>
   <span>&nbsp;</span>
-  <a href="https://github.com/ajwentcrazy/Fake-Discord-Statue"><img height="450" width="450" alt="repository2" src=".\repositories\repository2.png"/><a/>
+  <a href="https://github.com/ajwentcrazy/Fake-Discord-Statue"><img height="350" width="350" alt="repository2" src=".\repositories\repository2.png"/><a/>
 </div>
 
 <br/>
