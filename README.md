@@ -27,5 +27,5 @@ Favorite repositories
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
   <img src=".\icon\icon\twitchiconV2.png" alt="TWITCH" height="80"/>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-  <img src=".\icon\steamicon.png" alt="STEAM" height="100"/>
+  <img src=".\icon\steamicon.png" alt="STEAM" height="80"/>
 </div>
