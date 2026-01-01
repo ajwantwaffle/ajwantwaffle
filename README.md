@@ -11,7 +11,7 @@
 <br/>
 <div>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-  <span style="font-size: 20px;">Popular repositories</span>
+  <span style="font-size: 80px;">Popular repositories</span>
 </div>
 <br/>
 <div align="center">
