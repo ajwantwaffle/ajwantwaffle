@@ -28,11 +28,11 @@
   <br/>
   <a href="https://discord.gg/GDFEXnQ9bU"><img src=".\icon\icon\discordiconV2.png" alt="DISCORD" height="100"/><a/>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-  <img src=".\icon\spotifyicon.png" alt="SPOTIFY" height="100"/>
+  <a href="https://open.spotify.com/"><img src=".\icon\spotifyicon.png" alt="SPOTIFY" height="100"/><a/>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-  <img src=".\icon\ubuntuicon.png" alt="UBUNTU" height="100"/>
+  <a href="https://ubuntu.com/download"><img src=".\icon\ubuntuicon.png" alt="UBUNTU" height="100"/><a/>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-  <img src=".\icon\icon\twitchiconV2.png" alt="TWITCH" height="100"/>
+  <a href="http://twitch.tv/"><img src=".\icon\icon\twitchiconV2.png" alt="TWITCH" height="100"/><a/>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-  <img src=".\icon\steamicon.png" alt="STEAM" height="100"/>
+  <a href="https://store.steampowered.com/"><img src=".\icon\steamicon.png" alt="STEAM" height="100"/><a/>
 </div>
